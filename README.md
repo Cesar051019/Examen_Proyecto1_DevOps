@@ -1,6 +1,6 @@
 # Examen_Proyecto1_DevOps
 Clúster de Docker Swarm de Pruebas
-Este proyecto lo que realiza es levantar manager con nombre cesar y "n" clientes con nombre gonzalez0+"n"
+Este proyecto lo que realiza es levantar manager con nombre cesar y "n" clientes con nombre Worker+"n"
 1. Primero iniciamos vagrant con el comando vagrant init
 2. Luego colocamos el comando vagrant up
 Esto lo que realizara es el levantado de las maquinas virtuales con los nombres indicados
